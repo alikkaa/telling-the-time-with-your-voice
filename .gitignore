@@ -1,0 +1,13 @@
+audio/else/*
+audio/month/*
+audio/numbers_day/*
+audio/numbers_hour/*
+audio/numbers_minute/*
+audio_clear/else/*
+audio_clear/month/*
+audio_clear/numbers_day/*
+audio_clear/numbers_hour/*
+audio_clear/numbers_minute/*
+json/recorded_voice.json
+venv
+.idea

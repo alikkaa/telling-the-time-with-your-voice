@@ -1,0 +1,8 @@
+numpy==1.23.5
+pandas==1.5.1
+PyAudio==0.2.12
+python-dateutil==2.8.2
+pytz==2022.6
+scipy==1.9.3
+simpleaudio==1.0.4
+six==1.16.0
