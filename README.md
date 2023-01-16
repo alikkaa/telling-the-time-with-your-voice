@@ -1,7 +1,3 @@
-## Sounding_Time
-###### Zyblyuk Roman
-
-
 # Запуск Проекта 
 Создайте папку json
 Создайте папки audio и audio_clear
